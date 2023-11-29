@@ -61,7 +61,7 @@ public class array {
             System.out.println(text.charAt(i));
         }
 
-        System.out.println("Hello");
+        System.out.println("Hello...");
     }
 
 }
