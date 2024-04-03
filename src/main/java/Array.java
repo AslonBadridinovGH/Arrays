@@ -1,7 +1,6 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class array {
+public class Array {
     public static void main(String[] args) {
 
 
@@ -61,7 +60,6 @@ public class array {
             System.out.println(text.charAt(i));
         }
 
-        System.out.println("Hello...");
     }
 
 }
