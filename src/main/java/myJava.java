@@ -24,6 +24,7 @@ public class myJava {
          int sum = num1+num2;
          return sum;
     }
+
     public static double add(double num1, double num2) {
 
          double sum = num1 + num2;
@@ -35,6 +36,7 @@ public class myJava {
          double result = num1 - num2;
          return result;
     }
+
     public static double makePositive(int num1) {
 
         if(num1>0){

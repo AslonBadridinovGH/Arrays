@@ -22,6 +22,7 @@ public class Array {
         for (int i = 0; i < array1.length; i++) {
             sum += array1[i];
         }
+
         System.out.println(sum);
 
         // Step 3
@@ -34,6 +35,7 @@ public class Array {
                 max = j;
             }
         }
+
         System.out.println(max);
 
 
