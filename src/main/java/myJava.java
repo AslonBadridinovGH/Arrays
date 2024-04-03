@@ -12,6 +12,7 @@ public class myJava {
         System.out.println(isPalindrome("ollo"));
         System.out.println(isReverse("ollo"));
 
+
         // Bonus
         int a = 10, b = 8;
         if(a>b){
