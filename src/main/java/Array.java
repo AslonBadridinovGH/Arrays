@@ -6,7 +6,6 @@ public class Array {
 
         int[] array1 = new int[10];
 
-
         array1[0] = 0;
         array1[1] = 1;
         array1[2] = 2;
